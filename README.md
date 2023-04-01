@@ -9,12 +9,8 @@ I'm Azamat. I am Front-End Developer and I am passionate about creating differen
  ✅ In my free time, I like to share my knowledge by blogging on Medium and I am mentor, HTML, CSS, JS and currently I have 50+ graduated students. <br/>
  
  ---
-
-### ⚡️ A quick introduction <br/>
-🔭 I’m currently working with at Codemy. <br/>
-🌱 I’m currently learning NextJs. <br/>
-💼 I'm open to freelancing projects. <br/>
-
+ 
+ 
 🤝🏻 Connect, Follow, Subscribe <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azamatnabiyev/)
