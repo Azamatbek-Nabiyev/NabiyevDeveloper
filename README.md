@@ -12,7 +12,17 @@ I'm Azamat. I am Front-End Developer and I am passionate about creating differen
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NabiyevDeveloper&layout=donut)](https://github.com/NabiyevDeveloper/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AzamatNabiev)](https://github.com/NabiyevDeveloper/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=NabiyevDeveloper&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=NabiyevDeveloper&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NabiyevDeveloper&show_icons=true" />
+</picture>
 
 🤝🏻 Connect, Follow, Subscribe <br/>
 
