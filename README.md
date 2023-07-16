@@ -9,7 +9,8 @@ I'm Azamat. I am Front-End Developer and I am passionate about creating differen
  ✅ In my free time, I like to share my knowledge by blogging on Medium and I am mentor, HTML, CSS, JS and currently I have 50+ graduated students. <br/>
  
  ---
- 
+
+ <figure><embed src="https://wakatime.com/share/@b67656d1-4ac0-419c-90f5-40293a5d61f8/ec5fe4df-9aa9-4c07-aa5d-e076ccf79e12.svg"></embed></figure>
  
 🤝🏻 Connect, Follow, Subscribe <br/>
 
