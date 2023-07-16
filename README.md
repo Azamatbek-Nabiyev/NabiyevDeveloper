@@ -10,7 +10,7 @@ I'm Azamat. I am Front-End Developer and I am passionate about creating differen
  
  ---
 
-![Azamat's GitHub stats](https://github-readme-stats.vercel.app/api?username=NabiyevDeveloper&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NabiyevDeveloper&hide_progress=true)
  
 🤝🏻 Connect, Follow, Subscribe <br/>
 
