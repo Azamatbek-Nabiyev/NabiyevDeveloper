@@ -1,4 +1,4 @@
-<img src="https://thumbs.gfycat.com/BestMeagerHoki-size_restricted.gif" width="100%" height="300px">
+<img src="https://thumbs.gfycat.com/BestMeagerHoki-size_restricted.gif" width="100%" height="300px" style="object-fit:cover;">
 
 <h1 align="center">Hi 👋, I'm Azamat Nabiyev </h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan.</h3>
